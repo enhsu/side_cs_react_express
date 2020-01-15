@@ -1,0 +1,7 @@
+# back-end
+api/node_modules
+api/package-lock.json
+
+# front-end
+client/node_modules
+client/package-lock.json
